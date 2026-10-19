@@ -1,0 +1,12 @@
+.git
+.idea
+.vscode
+target
+build
+README*
+readme*
+HELP.md
+*.iml
+.classpath
+.project
+.settings
